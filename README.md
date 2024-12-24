@@ -12,9 +12,9 @@ Este é um projeto de **Piano Virtual**. O piano simula teclas de um teclado mus
 ---
 
 ## Funcionalidades
-- **Toque de notas**: Reproduz o som de notas musicais ao clicar nas teclas virtuais.
-- **Controle pelo teclado**: Mapas de teclas do computador correspondem às teclas do piano.
-- **Interface visual responsiva**: Design interativo para dispositivos móveis e desktops.
+1. **Toque de notas**: Reproduz o som de notas musicais ao clicar nas teclas virtuais.
+2. **Controle pelo teclado**: Mapas de teclas do computador correspondem às teclas do piano.
+3. **Interface visual responsiva**: Design interativo para dispositivos móveis e desktops.
 
 ---
 
